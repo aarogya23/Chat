@@ -45,6 +45,7 @@ const Chatbot = () => {
       <div className="chat-header">
       <img src={chat} alt="Chatbot Image" class="chatbot-image" />
         <h2>Chatbot</h2>
+        <h1>hello</h1>
       </div>
       <div className="chat-body">
         <div className="message-container">
